@@ -1,4 +1,3 @@
-Sure, here is the content for the `README.md` file:
 
 ```markdown
 # Machine Learning Project Workflow
