@@ -104,9 +104,3 @@ sns.heatmap(conf_matrix, annot=True)
 plt.show()
 ```
 
----
-
-This workflow provides a structured approach to building and evaluating machine learning models, ensuring reproducibility and consistency in your projects.
-```
-
-You can save this content as a `README.md` file.
