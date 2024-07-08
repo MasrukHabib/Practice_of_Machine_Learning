@@ -42,14 +42,6 @@ Choose a machine learning algorithm and train the model using the training data.
 
 Evaluate the model's performance using appropriate metrics and the testing set.
 
-```python
-from sklearn.metrics import accuracy_score
-
-y_pred = model.predict(X_test)
-accuracy = accuracy_score(y_test, y_pred)
-print(f'Accuracy: {accuracy}')
-```
-
 ### 5. Visualization of Results
 
 Visualize the results using libraries like Matplotlib or Seaborn to interpret and present the findings effectively.
