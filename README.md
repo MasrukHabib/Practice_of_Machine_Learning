@@ -36,8 +36,6 @@ Split the dataset into training and testing sets to evaluate the model's perform
 
 Choose a machine learning algorithm and train the model using the training data.
 
-
-
 ### 4. Model Evaluation
 
 Evaluate the model's performance using appropriate metrics and the testing set.
