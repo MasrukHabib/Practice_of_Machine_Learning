@@ -44,5 +44,3 @@ Evaluate the model's performance using appropriate metrics and the testing set.
 
 Visualize the results using libraries like Matplotlib or Seaborn to interpret and present the findings effectively.
 
-.................................................................................................................................................
-
