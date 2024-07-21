@@ -1,5 +1,5 @@
 # Machine Learning Project Workflow
-.................................................................
+
 This repository outlines a typical workflow for a professional machine learning project. The workflow includes loading the dataset, performing data preprocessing, training the model, and evaluating the results.
 
 ## Step-by-Step Machine Learning Project Workflow
