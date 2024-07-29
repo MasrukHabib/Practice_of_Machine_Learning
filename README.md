@@ -22,7 +22,6 @@ Convert categorical variables into a numerical format using techniques like one-
 
 #### 2.3 Feature Scaling
 
-
 Scale the features to ensure they are on a similar scale, which helps certain algorithms perform better.
 
 ### 3. Model Training
