@@ -19,6 +19,5 @@ def main():
     for item in data_items:
         data_type = identify_data_type(item)
         print(f"'{item}' is of type: {data_type}")
-
 if __name__ == "__main__":
     main()
