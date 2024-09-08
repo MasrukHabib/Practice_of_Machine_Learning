@@ -4,7 +4,6 @@ This repository outlines a typical workflow for a professional machine learning 
 
 ## Step-by-Step Machine Learning Project Workflow
 
-
 ### 1. Load the Dataset
 The first step involves loading the dataset into the environment. This can be done using various libraries such as Pandas for CSV files, SQLAlchemy for databases, or custom data loaders for other formats.
 
