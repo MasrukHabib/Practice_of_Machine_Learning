@@ -21,5 +21,4 @@ def main():
         print(f"'{item}' is of type: {data_type}")
 if __name__ == "__main__":
     main()
-#
 # need to delete 
