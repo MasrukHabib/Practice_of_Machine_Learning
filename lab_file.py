@@ -22,3 +22,28 @@ def main():
 if __name__ == "__main__":
     main()
 # need to delete 
+
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+# Calculate correlation matrix
+corr_matrix = df.corr()
+
+# Set up the matplotlib figure
+plt.figure(figsize=(15, 8))
+plt.title('Correlation Matrix', fontsize=11)
+
+# Create a heatmap
+sns.heatmap(corr_matrix,
+            annot=True,
+            cmap='coolwarm',
+            fmt=".2f",
+            linewidths=0.5,
+            annot_kws={"size": 14})
+
+# Add aesthetics
+plt.xticks(rotation=45)
+plt.yticks(rotation=0)
+plt.tight_layout()
+# Show plot
+plt.show()
