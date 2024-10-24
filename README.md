@@ -32,5 +32,3 @@ Evaluate the model's performance using appropriate metrics and the testing set.
 
 ### 5. Visualization of Results
 Visualize the results using libraries like Matplotlib or Seaborn to interpret and present the findings effectively.
-
-
